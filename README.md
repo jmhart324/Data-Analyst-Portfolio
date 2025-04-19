@@ -56,5 +56,12 @@ strengthening financial analysis skills
 
 ### Projects 
 
+New Wheels Project
+
+Skils used: SQL, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+
+
+
 
 

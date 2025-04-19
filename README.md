@@ -6,13 +6,11 @@
 **University of Texas at Austin – Data Analytics Essentials Program**  
 *In Progress*  
 
-**Jackson State University – Master of Business Administration, (MBA)**  
-*Jackson, MS*  
+**Jackson State University – Master of Business Administration, (MBA)**   
 *December 2023*  
 - GPA: 3.4 / 4.0  
 
 **Jackson State University – Bachelor of Business Administration, (Finance)**  
-*Jackson, MS*  
 *May 2022*  
 - GPA: 3.4 / 4.0  
 

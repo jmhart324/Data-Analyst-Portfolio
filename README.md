@@ -67,6 +67,8 @@ Skils used: SQL, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functio
 [New Wheels SQL Project](https://github.com/jmhart324/Data-Analyst-Portfolio/blob/main/New%20Wheels%20SQL%20Project)
 
 
+
+
 Shopify HR Analytics Project
 The organization aims to enhance overall productivity, streamline promotion processes, and address any disparities in job satisfaction and performance levels.
 

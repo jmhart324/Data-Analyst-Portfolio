@@ -61,9 +61,21 @@ strengthening financial analysis skills
 ### Projects 
 
 New Wheels Project
+The CEO of the company wants a quarterly report with all the key metrics sent to him so he can assess the health of the business and make the necessary decisions.
 
 Skils used: SQL, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 [New Wheels SQL Project](https://github.com/jmhart324/Data-Analyst-Portfolio/blob/main/New%20Wheels%20SQL%20Project)
+
+
+Shopify HR Analytics Project
+The organization aims to enhance overall productivity, streamline promotion processes, and address any disparities in job satisfaction and performance levels.
+
+Skills used: Power BI, Data Cleaning and Preparation, Power Query Editor, Data Modeling, Date Visualization 
+[Shopify HR Analytics Project]
+
+
+
+
 
 
 

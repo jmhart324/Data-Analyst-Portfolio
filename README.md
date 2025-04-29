@@ -63,7 +63,7 @@ strengthening financial analysis skills
 New Wheels Project
 
 Skils used: SQL, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-[PUBLICATION] New Wheels SQL Project
+[New Wheels SQL Project]
 
 
 

@@ -4,7 +4,7 @@
 I am a aspiring data analyst with a passion for transforming complex data into actionable insights. With a background in finance, health insurance and real estate operations, I’ve leveraged data to streamline claims processes, detect anomalies, and support high-value transactions. Currently, I’m expanding my technical toolkit with SQL, Power BI, and advanced analytics projects that showcase my ability to deliver data driven solutions across industries.
 
 # My Resume
-[RESUME] 
+[RESUME] https://github.com/jmhart324/Data-Analyst-Portfolio/blob/main/Jordan%20Hart_Resume%20.docx.pdf
 
 
 

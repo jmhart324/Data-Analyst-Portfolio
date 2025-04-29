@@ -73,7 +73,15 @@ Shopify HR Analytics Project
 The organization aims to enhance overall productivity, streamline promotion processes, and address any disparities in job satisfaction and performance levels.
 
 Skills used: Power BI, Data Cleaning and Preparation, Power Query Editor, Data Modeling, Date Visualization 
-[Shopify HR Analytics Project]
+[Shopify HR Analytics Project](https://github.com/jmhart324/Projects/blob/main/HR%20Analysis%201.pdf)
+
+
+RetailCoMotors Sales Analytics Project 
+RetailCoMotors is focused on using this data to develop predictive models for salesforecasting, enhance supply chain efficiency, and refine marketing strategies. Through these efforts, RetailCoMotors seeks to boost profitability and maintain its edge in theretail market.
+
+Skills used: Power BI, Data Cleaning and Preparation, Power Query Editor, Data Modeling, Date Visualization
+[RetailCoMotors Sales Analytics Project](https://github.com/jmhart324/Projects/blob/main/Sales%20Analysis.pdf)
+
 
 
 

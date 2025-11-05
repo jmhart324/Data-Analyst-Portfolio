@@ -39,7 +39,7 @@ the program.
 recommendations to enhance operational eﬃciency.
 - Conduct in-depth reviews of claims and adjustment data to identify trends, discrepancies, and
 opportunities for process optimization.
-- Perform root-cause analysis to support accurate benefit applicaKon, contract interpretaKon, and
+- Perform root-cause analysis to support accurate benefit application, contract interpretation, and
 regulatory compliance.
 - Utilize Excel and data visualization tools to track key performance metrics, improve reporting accuracy,
 and drive informed decision-making.

@@ -1,14 +1,11 @@
 # Data Analyst Portfolio
 
-# About Me
-I am a aspiring data analyst with a passion for transforming complex data into actionable insights. With a background in finance, health insurance and real estate operations, I’ve leveraged data to streamline claims processes, detect anomalies, and support high-value transactions. Currently, I’m expanding my technical toolkit with SQL, Power BI, and advanced analytics projects that showcase my ability to deliver data driven solutions across industries.
-
 # My Resume
 My CV in [pdf](https://github.com/jmhart324/Data-Analyst-Portfolio/blob/main/Jordan%20Hart_Resume%20.docx.pdf)
 
 
 
-### Technical Skills: Excel, SQL, Power BI, Data Cleaning & Preparation, Statistics & Analysis
+### Technical Skills: Excel, Power BI, Data Cleaning & Preparation, Statistics & Analysis
 
 ### Education
 **University of Texas at Austin – Data Analytics Essentials Program**   *June 2025*  
@@ -22,34 +19,50 @@ My CV in [pdf](https://github.com/jmhart324/Data-Analyst-Portfolio/blob/main/Jor
 
 
 ### Work Experience 
-## Claims and Adjustments Specialist @ Blue Cross Blue Shield of Mississippi (October 2023 - Present)
-- Oversee and review standard and escalated adjustment cases initiated through regulatory complaints
-or via other key stakeholders
-- Develop SQL queries to analyze healthcare claims data, reducing overpayments through anomaly
-detection
-- Research and review claims for appropriate application of benefits and contract interpretation
-- Utilize Excel and basic Python scripts to analyze patterns in claim adjustments, improving claim
-accuracy
-- Collaborate with cross-functional teams to refine data governance policies, ensuring regulatory
-compliance
-- Optimize internal processes, reducing claim review time by 30% and improving response time
+## PROGRAM ANALYST T-1A @ V2X Aerospace
+- Gathered and analyzed data from multiple program sources to identify trends, bottlenecks, and cost-
+saving opportunities.
+- Tracked and reported key performance indicators (KPIs) to measure program eﬃciency and
+operational eﬀectiveness.
+- Extract, transform, and analyzed data from SAP systems to support cost tracking, budgeting, and
+performance analysis across projects.
+- Build customized reports and dashboards within SAP and Excel to improve visibility into cost, schedule,
+and resource utilization metrics.
+- Compiled reports to support daily program operaKons across inventory management, financial
+reporting, and material logistics.
+- Collaborating with diﬀerent departments to streamline processes and increase overall eﬃciency across
+the program.
 
-## Realtor @ CPA Reality (May 2023 - Present)
+
+## Claims and Adjustments Specialist @ Blue Cross Blue Shield of Mississippi (October 2023 - July 2025)
+- Oversee and analyze business processes for claims and adjustment workflows, providing actionable
+recommendations to enhance operational eﬃciency.
+- Conduct in-depth reviews of claims and adjustment data to identify trends, discrepancies, and
+opportunities for process optimization.
+- Perform root-cause analysis to support accurate benefit applicaKon, contract interpretaKon, and
+regulatory compliance.
+- Utilize Excel and data visualization tools to track key performance metrics, improve reporting accuracy,
+and drive informed decision-making.
+- Collaborate with cross-functional teams to refine data governance policies and ensure consistent
+adherence to compliance standards.
+- Optimize internal processes, reducing claim review time by 30% and improving response time.
+  
+## Realtor @ CPA Reality (May 2023 - July 2025)
 - Analyze real estate market trends using Excel-based regression models, providing insights that
-contribute to increases in investment returns
-  Assist in developing property valuation models, reducing valuation time
-- Support the creation of performance tracking dashboards for key real estate metrics
-- Assist in closing over $500K in real estate transactions by leveraging data-driven pricing strategies
+contribute to increases in investment returns.
+- Assist in developing property valuation models, reducing valuation time.
+- Support the creation of performance tracking dashboards for key real estate metrics.
+- Assist in closing over $500K in real estate transactions by leveraging data-driven pricing strategies.
 - Collaborate with broker and senior real estate agent to provide consulting to clients while also helping
-initiate negotiation processes
+initiate negotiation processes.
 
 ## Logistics and Fulfillment Systems Intern @ Phi Theta Kappa International Honors Society (February 2021 - October 2022)
 - Assisted in implementing logistics and fulfillment workflows, ensuring alignment with organizational
-standards and operational efficiency
+standards and operational efficiency.
 - Maintained communication with stakeholders to verify data accuracy in order processing, inventory
-management, and fulfillment tracking
+management, and fulfillment tracking.
 - Analyzed daily reports to monitor key performance metrics, leveraging data insights to optimize order
-processing times and improve operational efficiency
+processing times and improve operational efficiency.
 
 ## Finance & Investment Banking Leadership Summit @ Wells Fargo (July 2020)
 - Participated in an intensive finance boot camp, gaining insights into financial modeling, risk
@@ -59,15 +72,6 @@ strengthening financial analysis skills
 
 
 ### Projects 
-
-New Wheels Project
-The CEO of the company wants a quarterly report with all the key metrics sent to him so he can assess the health of the business and make the necessary decisions.
-
-Skils used: SQL, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-[New Wheels SQL Project](https://github.com/jmhart324/Data-Analyst-Portfolio/blob/main/New%20Wheels%20SQL%20Project)
-
-
-
 
 Shopify HR Analytics Project
 The organization aims to enhance overall productivity, streamline promotion processes, and address any disparities in job satisfaction and performance levels.
